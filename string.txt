@@ -1,0 +1,3 @@
+string ="java is Object oriented.java is platform independent.java is simple."
+count=string.count('java');
+print(count)
